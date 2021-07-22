@@ -1,7 +1,7 @@
 {
   "name": "inno-setup-exe",
   "version": "6.2.0",
-  "description": "",
+  "description": "Repository for bundle Inno Setup to npm package",
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -12,5 +12,14 @@
   "bugs": {
     "url": "https://github.com/nakorndev/inno-setup-exe/issues"
   },
-  "homepage": "https://github.com/nakorndev/inno-setup-exe#readme"
+  "homepage": "https://github.com/nakorndev/inno-setup-exe#readme",
+  "keywords": [
+    "inno",
+    "inno setup",
+    "inno setup compiler",
+    "iscc",
+    "setup",
+    "installer",
+    "wizard"
+  ]
 }
