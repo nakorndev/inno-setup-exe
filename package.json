@@ -1,18 +1,18 @@
 {
-  "name": "inno-setup-exe",
+  "name": "node-inno-setup",
   "version": "6.2.0",
   "description": "Repository for bundle Inno Setup to npm package",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nakorndev/inno-setup-exe.git"
+    "url": "git+https://github.com/nakorndev/node-inno-setup.git"
   },
   "author": "nakorndev",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nakorndev/inno-setup-exe/issues"
+    "url": "https://github.com/nakorndev/node-inno-setup/issues"
   },
-  "homepage": "https://github.com/nakorndev/inno-setup-exe#readme",
+  "homepage": "https://github.com/nakorndev/node-inno-setup#readme",
   "keywords": [
     "inno",
     "inno setup",
