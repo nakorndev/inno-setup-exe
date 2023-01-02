@@ -4,14 +4,14 @@
 
 ## Usage
 
-1. Install with `npm install inno-setup-exe`.
-2. Use `const iscc = require('inno-setup-exe')` on node to get the path of main Inno Setup compiler.
+1. Install with `npm install node-inno-setup`.
+2. Use `const iscc = require('node-inno-setup')` on node to get the path of main Inno Setup compiler.
 
 ## Example to run iscc command on node
 
 ```js
 const { spawnSync } = require('child_process')
-const iscc = require('inno-setup-exe')
+const iscc = require('node-inno-setup')
 
 const outputPath = './output' // should not empty folder
 const outputFilename = 'setup' // output as "setup.exe"
